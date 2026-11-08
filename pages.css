@@ -5,3 +5,5 @@
 
 /* Five photographs in each vehicle gallery. */
 .vehicle-gallery.five-photos{grid-template-columns:repeat(5,minmax(0,1fr))}
+
+.footer-social{display:flex;align-items:center;gap:24px;flex-wrap:wrap;padding:0 0 24px}.footer-social a{display:inline-flex;align-items:center;gap:9px;min-height:44px;font-size:11px;color:#d5ddd7}.footer-social svg{width:22px;height:22px;flex-shrink:0;stroke-width:1.65}.footer-social a:hover{color:var(--gold)}.company-page .footer-social a{color:#c6dce5}.company-page .footer-social a:hover{color:#83c8e0}
