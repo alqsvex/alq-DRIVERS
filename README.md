@@ -6,7 +6,7 @@ Site institucional e páginas dos motoristas, com prioridade para celulares.
 | --- | --- |
 | https://alq.me/ | Home institucional da ALQ |
 | https://alq.me/francisco | Francisco Neto |
-| https://alq.me/shirley | Shirley |
+| https://alq.me/shirley | Shirley Guiralde |
 
 ## Publicação
 
@@ -19,8 +19,8 @@ Também pode ser servido diretamente da raiz do repositório. Cada página tem s
 
 Estilos originais compartilhados em `style.css`; ajustes das páginas em `pages.css`; tema institucional em `company.css`. Fotos e marca em `images/`.
 
-Os agendamentos abrem https://app.smartt.vip/alq. WhatsApp ALQ/Francisco: +55 12 99626-8356. WhatsApp Shirley: +55 12 99685-0833.
+Os agendamentos abrem https://app.smartt.vip/alq. WhatsApp ALQ/Francisco: +55 12 99626-8356. WhatsApp Shirley Guiralde: +55 12 99685-0833.
 
-A fotografia de Shirley recebeu ajuste de fundo e enquadramento. As galerias de ambos os veículos são compartilhadas e têm quatro fotos cada.
+A fotografia de Shirley Guiralde recebeu ajuste de fundo e enquadramento. As galerias de ambos os veículos são compartilhadas e têm quatro fotos cada.
 
 O site anterior e o repositório `FRANCISCODRIVER` foram preservados.
