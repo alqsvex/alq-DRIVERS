@@ -21,6 +21,6 @@ Estilos originais compartilhados em `style.css`; ajustes das páginas em `pages.
 
 Os agendamentos abrem https://app.smartt.vip/alq. WhatsApp ALQ/Francisco: +55 12 99626-8356. WhatsApp Shirley Guiralde: +55 12 99685-0833.
 
-A fotografia de Shirley Guiralde recebeu ajuste de fundo e enquadramento. As galerias dos veículos são compartilhadas: Honda City com quatro fotos e Toyota Yaris com cinco (Exterior, Frente, Lateral, Cabine e Banco traseiro).
+A fotografia de Shirley Guiralde recebeu ajuste de fundo e enquadramento. As galerias dos veículos são compartilhadas: Honda City e Toyota Yaris com cinco fotos cada (Exterior, Frente, Lateral, Cabine e Banco traseiro).
 
 O site anterior e o repositório `FRANCISCODRIVER` foram preservados.
