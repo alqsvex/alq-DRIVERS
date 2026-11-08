@@ -1,0 +1,8 @@
+{
+  "domain": "alq.me",
+  "type": "static",
+  "repository": "alqsvex/alq-DRIVERS",
+  "branch": "main",
+  "document_root": "public_html",
+  "auto_deploy": true
+}

@@ -10,6 +10,8 @@ Site institucional e páginas dos motoristas, com prioridade para celulares.
 
 ## Publicação
 
+Hospedado na Hostinger em `alq.me`, com implantação automática da branch `main` do `alqsvex/alq-DRIVERS` no diretório `public_html`. O redirecionamento antigo para o catálogo do WhatsApp foi removido.
+
 Site estático sem dependências. Execute `npm run build`; a pasta de saída é `dist`.
 Também pode ser servido diretamente da raiz do repositório. Cada página tem seu próprio `index.html`; o servidor deve servir diretórios para `/francisco` e `/shirley`.
 
