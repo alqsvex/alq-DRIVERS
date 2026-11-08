@@ -2,3 +2,6 @@
 .link-arrow{display:inline-block;width:16px;height:16px;vertical-align:-3px;flex-shrink:0}.button .link-arrow,.card-link .link-arrow,.team-link .link-arrow{width:20px;height:20px}
 .shirley-page .portrait img{object-position:50% 34%}
 @media(max-width:600px){.family-links{gap:18px}}
+
+/* Five photographs in the Yaris gallery; the Honda keeps four. */
+.vehicle-gallery.five-photos{grid-template-columns:repeat(5,minmax(0,1fr))}
