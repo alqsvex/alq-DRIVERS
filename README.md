@@ -28,3 +28,5 @@ O site anterior e o repositório `FRANCISCODRIVER` foram preservados.
 ## Última atualização — 17/11/2026
 
 Todos os 24 links de agendamento que apontavam para o Smärtt foram substituídos por links diretos de WhatsApp: Home e Francisco → +55 12 99626-8356; Shirley → +55 12 99685-0833. As orientações de agendamento foram ajustadas ao contato pelo WhatsApp. Aparência e demais destinos preservados.
+
+Atualização de imagem — 17/11/2026: foto externa do Honda City com placa CITY026, aplicada aos banners, galerias e referências de compartilhamento que usam essa imagem. Arquivo: `images/honda-city-exterior-city026.webp`.
