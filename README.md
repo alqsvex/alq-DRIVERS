@@ -19,8 +19,12 @@ Também pode ser servido diretamente da raiz do repositório. Cada página tem s
 
 Estilos originais compartilhados em `style.css`; ajustes das páginas em `pages.css`; tema institucional em `company.css`. Fotos e marca em `images/`.
 
-Os agendamentos abrem https://app.smartt.vip/alq. WhatsApp ALQ/Francisco: +55 12 99626-8356. WhatsApp Shirley Guiralde: +55 12 99685-0833.
+Os botões de agendamento abrem o WhatsApp correspondente a cada página. WhatsApp ALQ/Francisco: +55 12 99626-8356. WhatsApp Shirley Guiralde: +55 12 99685-0833.
 
 A fotografia de Shirley Guiralde recebeu ajuste de fundo e enquadramento. As galerias dos veículos são compartilhadas: Honda City e Toyota Yaris com cinco fotos cada (Exterior, Frente, Lateral, Cabine e Banco traseiro).
 
 O site anterior e o repositório `FRANCISCODRIVER` foram preservados.
+
+## Última atualização — 17/11/2026
+
+Todos os 24 links de agendamento que apontavam para o Smärtt foram substituídos por links diretos de WhatsApp: Home e Francisco → +55 12 99626-8356; Shirley → +55 12 99685-0833. As orientações de agendamento foram ajustadas ao contato pelo WhatsApp. Aparência e demais destinos preservados.
